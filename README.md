@@ -49,6 +49,12 @@ The main innovation of KRISHI-SENSE is the What-If Farming Simulator, which allo
 
 Another important feature is the Farm Digital Passport, which maintains individual records of farmland and uses them to provide more relevant recommendations. The combination of crop-risk alerts, profitability comparison and community-based warnings makes the platform more useful as a complete farming decision-support system.
 
+## Innovation and Uniqueness
+The main innovation of KRISHI-SENSE is the What-If Farming Simulator, which allows farmers to understand the possible outcomes of different farming decisions before putting them into practice. Instead of simply suggesting what a farmer should do, the application helps compare available options based on estimated costs, resource requirements and possible risks.
+
+Another important feature is the Farm Digital Passport, which maintains individual records of farmland and uses them to provide more relevant recommendations. The combination of crop-risk alerts, profitability comparison and community-based warnings makes the platform more useful as a complete farming decision-support system.
+
+
 ## Technical Approach
 Suggested Technology Stack
 Component	Technology
